@@ -1,0 +1,15 @@
+{
+  "name": "what-the-time",
+  "version": "0.0.1",
+  "description": "TODO",
+  "main": "handler.js",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "Mikael Vesavuori",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "4"
+  }
+}
