@@ -1,4 +1,4 @@
-FROM rust:1.77-slim as builder
+FROM rust:1-slim-bookworm as builder
 
 WORKDIR /usr/src/what_the_time
 
